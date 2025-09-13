@@ -1,0 +1,502 @@
+[
+  {
+    "ticket_id": "TKT-2025-001",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 3"
+  },
+  {
+    "ticket_id": "TKT-2025-002",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 2"
+  },
+  {
+    "ticket_id": "TKT-2025-003",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-004",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 3"
+  },
+  {
+    "ticket_id": "TKT-2025-005",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-006",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 3"
+  },
+  {
+    "ticket_id": "TKT-2025-007",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-008",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 2"
+  },
+  {
+    "ticket_id": "TKT-2025-009",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-010",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-011",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-012",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-013",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 3"
+  },
+  {
+    "ticket_id": "TKT-2025-014",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-015",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 3"
+  },
+  {
+    "ticket_id": "TKT-2025-016",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-017",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-018",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-019",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-020",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-021",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-022",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-023",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-024",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-025",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-026",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-027",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-028",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-029",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-030",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-031",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-032",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-033",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-034",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-035",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-036",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-037",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-038",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-039",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-040",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-041",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-042",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-043",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 4"
+  },
+  {
+    "ticket_id": "TKT-2025-044",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-045",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-046",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-047",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-048",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-049",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-050",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-051",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-052",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-053",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 5"
+  },
+  {
+    "ticket_id": "TKT-2025-054",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-055",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-056",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-057",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-058",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-059",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-060",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-061",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-062",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-063",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 6"
+  },
+  {
+    "ticket_id": "TKT-2025-064",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-065",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-066",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-067",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-068",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-069",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-070",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-071",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-072",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-073",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 7"
+  },
+  {
+    "ticket_id": "TKT-2025-074",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-075",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-076",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-077",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-078",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-079",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-080",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-081",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 13"
+  },
+  {
+    "ticket_id": "TKT-2025-082",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 10"
+  },
+  {
+    "ticket_id": "TKT-2025-083",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 8"
+  },
+  {
+    "ticket_id": "TKT-2025-084",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-085",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 13"
+  },
+  {
+    "ticket_id": "TKT-2025-086",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 13"
+  },
+  {
+    "ticket_id": "TKT-2025-087",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-088",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-089",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-090",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-091",
+    "assigned_agent_id": "agent_008",
+    "rationale": "Matched skills: None; Agent experience: 9; Current load after assignment: 14"
+  },
+  {
+    "ticket_id": "TKT-2025-092",
+    "assigned_agent_id": "agent_009",
+    "rationale": "Matched skills: None; Agent experience: 4; Current load after assignment: 11"
+  },
+  {
+    "ticket_id": "TKT-2025-093",
+    "assigned_agent_id": "agent_010",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 9"
+  },
+  {
+    "ticket_id": "TKT-2025-094",
+    "assigned_agent_id": "agent_001",
+    "rationale": "Matched skills: None; Agent experience: 7; Current load after assignment: 13"
+  },
+  {
+    "ticket_id": "TKT-2025-095",
+    "assigned_agent_id": "agent_002",
+    "rationale": "Matched skills: None; Agent experience: 12; Current load after assignment: 14"
+  },
+  {
+    "ticket_id": "TKT-2025-096",
+    "assigned_agent_id": "agent_003",
+    "rationale": "Matched skills: None; Agent experience: 10; Current load after assignment: 14"
+  },
+  {
+    "ticket_id": "TKT-2025-097",
+    "assigned_agent_id": "agent_004",
+    "rationale": "Matched skills: None; Agent experience: 5; Current load after assignment: 13"
+  },
+  {
+    "ticket_id": "TKT-2025-098",
+    "assigned_agent_id": "agent_005",
+    "rationale": "Matched skills: None; Agent experience: 6; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-099",
+    "assigned_agent_id": "agent_006",
+    "rationale": "Matched skills: None; Agent experience: 8; Current load after assignment: 12"
+  },
+  {
+    "ticket_id": "TKT-2025-100",
+    "assigned_agent_id": "agent_007",
+    "rationale": "Matched skills: None; Agent experience: 11; Current load after assignment: 13"
+  }
+]
